@@ -2,7 +2,7 @@
 
 console.log("user module");
 
-// стдрт. fn конструктора в парам.
+// стдрт. fn конструктора с парам.
 function User(name, age) {
   this.name = name;
   this.age = age;
